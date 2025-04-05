@@ -16,6 +16,9 @@ const App = () => {
           </button>
         </p>
         <p>
+          I'm excited for the hackathon!!!
+        </p>
+        <p>
           Edit <code>App.jsx</code> and save to test hot module replacement (HMR).
         </p>
         <p>
